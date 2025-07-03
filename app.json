@@ -9,7 +9,7 @@
       "SESSION_ID": {
       "description": "EF-PRIME-MD_xL7jFq82",
       "required": true,
-      "value": ""
+      "value": "EF-PRIME-MD_xL7jFq82"
     },
     "MODE": {
       "description": "mode public or self",
