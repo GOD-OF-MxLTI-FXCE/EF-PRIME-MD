@@ -5,7 +5,7 @@ const fs = require("fs");
 require("dotenv").config();
 const config = {
 
-  SESSION_ID: process.env.SESSION_ID || "your session id here",
+  SESSION_ID: process.env.SESSION_ID || "EF-PRIME-MD_xL7jFq82",
   PREFIX: process.env.PREFIX || '.',
   
   // Message Protection
